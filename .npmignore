@@ -1,0 +1,10 @@
+node_modules
+src
+test
+jest.config.js
+tsconfig.json
+tslint.json
+.prettierrc
+_coverage
+dist/test
+logs

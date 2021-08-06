@@ -1,0 +1,26 @@
+{
+  "name": "qzx-task",
+  "version": "1.0.5",
+  "description": "the crontab taskc ",
+  "main": "dist/index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qzx1991/qzx-task.git"
+  },
+  "keywords": [
+    "crontab",
+    "task"
+  ],
+  "author": "qianzhixiang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qzx1991/qzx-task/issues"
+  },
+  "homepage": "https://github.com/qzx1991/qzx-task#readme"
+}
